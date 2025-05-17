@@ -1,3 +1,0 @@
-[build]
-  command = "npm install --legacy-peer-deps && npm run build -- --prod"
-  publish = "dist/blog-website-frontend-Angular"
